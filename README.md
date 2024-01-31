@@ -9,7 +9,7 @@ This project is made using:
 
 ## App Demonstration
 
-[Watch the Video](https://github.com/parthanand4054/SwiftUIMapApp/blob/main/Videos%20%26%20Screenshots/b11d39f3-8121-4151-b1f6-c857a7617afc.mp4)
+[Watch the Video](https://youtube.com/shorts/3XFTXmAR4as)
 
 <p align="center">
   <img alt="Screenshot 1" src="https://github.com/parthanand4054/SwiftUIMapApp/blob/main/Videos%20%26%20Screenshots/IMG_2419.PNG" width="200" style="margin-right: 50px;"/>
